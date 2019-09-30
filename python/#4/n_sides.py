@@ -1,0 +1,5 @@
+sides = ((int(input()) - 2) * 180)
+angles = list(map(int, input().split(" ")))
+sum_sides = sum(angles)
+print(sum_sides)
+print((sum_sides == sides and 0 not in angles and "YES") or "NO")

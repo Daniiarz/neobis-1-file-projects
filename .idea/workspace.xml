@@ -1,98 +1,71 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3a97c456-3a30-4720-b93d-34fb53b3d2aa" name="Default Changelist" comment="" />
+    <list default="true" id="47803999-16b7-469b-93b8-036c522d615a" name="Default Changelist" comment="Initial Commit">
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/other.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/#2/abbys.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/#2/area_n_perimeter.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/#2/calculations_c.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/#2/polygon.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/#2/sequence.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/#2/sum_of_two_n.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/#2/watches.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/#2/watches_inverse.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/#3/angles_of_triangle.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/#3/birthday.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/#3/dummy_code.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/#3/max_num.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/#3/number_of_months.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/#3/oldest_one.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/#3/same_numbers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/#3/sides_of_triangle.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/#3/two_triangles.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/#4/fibonacci.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/#4/n_sides.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/#4/product.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/#4/squares.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python/#2/calculations_a.py" beforeDir="false" afterPath="$PROJECT_DIR$/python/#2/calculations_a.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python/#2/calculations_b.py" beforeDir="false" afterPath="$PROJECT_DIR$/python/#2/calculations_b.py" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/python/#1/Problem1.py">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/python/#2/calculations_a.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret selection-end-line="3" selection-end-column="41" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/python/#2/calculations_b.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="5" selection-start-line="5" selection-end-line="10" selection-end-column="11" />
-              <folding>
-                <element signature="e#0#9#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+        <option value="Python Script" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="IdeDocumentHistory">
-    <option name="CHANGED_PATHS">
-      <list>
-        <option value="$PROJECT_DIR$/python/#2/calculations_a.py" />
-        <option value="$PROJECT_DIR$/python/#2/calculations_b.py" />
-        <option value="$PROJECT_DIR$/python/#1/Problem1.py" />
-      </list>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="C:\Users\Daniiar\Desktop\neobis-1-file-projects\.idea" />
+      </set>
     </option>
   </component>
-  <component name="ProjectConfigurationFiles">
-    <option name="files">
-      <list>
-        <option value="$PROJECT_DIR$/.idea/neobis-1-file-projects.iml" />
-        <option value="$PROJECT_DIR$/.idea/vcs.xml" />
-        <option value="$PROJECT_DIR$/.idea/misc.xml" />
-        <option value="$PROJECT_DIR$/.idea/modules.xml" />
-      </list>
-    </option>
-  </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="170" />
-    <option name="y" value="91" />
-    <option name="width" value="1026" />
-    <option name="height" value="546" />
-  </component>
+  <component name="ProjectId" id="1Qv5ITNr2wkAxzFwPKEjm2iaqXS" />
   <component name="ProjectLevelVcsManager">
-    <ConfirmationsSetting value="1" id="Add" />
-  </component>
-  <component name="ProjectView">
-    <navigator proportions="" version="1">
-      <foldersAlwaysOnTop value="true" />
-    </navigator>
-    <panes>
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="neobis-1-file-projects" type="b2602c69:ProjectViewProjectNode" />
-              <item name="neobis-1-file-projects" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-      <pane id="Scope" />
-    </panes>
+    <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../ruli.kg" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -106,8 +79,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.Problem1">
-    <configuration name="Problem1" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.sum_of_numbers">
+    <configuration name="fibonacci" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="neobis-1-file-projects" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -115,12 +88,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python/#1" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python/#4" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python/#1/Problem1.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python/#4/fibonacci.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -129,7 +102,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="calculations_a" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="n_sides" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="neobis-1-file-projects" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -137,12 +110,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python/#2" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python/#4" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python/#2/calculations_a.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python/#4/n_sides.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -151,7 +124,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="calculations_b" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="product" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="neobis-1-file-projects" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -159,12 +132,56 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python/#2" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python/#4" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python/#2/calculations_b.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python/#4/product.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="squares" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="neobis-1-file-projects" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python/#4" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python/#4/squares.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="sum_of_numbers" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="neobis-1-file-projects" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python/#4" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python/#4/sum_of_numbers.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -175,9 +192,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.Problem1" />
-        <item itemvalue="Python.calculations_b" />
-        <item itemvalue="Python.calculations_a" />
+        <item itemvalue="Python.sum_of_numbers" />
+        <item itemvalue="Python.fibonacci" />
+        <item itemvalue="Python.product" />
+        <item itemvalue="Python.squares" />
+        <item itemvalue="Python.n_sides" />
       </list>
     </recent_temporary>
   </component>
@@ -186,95 +205,78 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="3a97c456-3a30-4720-b93d-34fb53b3d2aa" name="Default Changelist" comment="" />
-      <created>1568776687008</created>
+      <changelist id="47803999-16b7-469b-93b8-036c522d615a" name="Default Changelist" comment="" />
+      <created>1568638149937</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1568776687008</updated>
-      <workItem from="1568776688680" duration="9455000" />
+      <updated>1568638149937</updated>
+      <workItem from="1568638151484" duration="3204000" />
+      <workItem from="1568657532479" duration="1202000" />
+      <workItem from="1568729983809" duration="3788000" />
+      <workItem from="1568858788355" duration="2124000" />
+      <workItem from="1568978942646" duration="3915000" />
+      <workItem from="1569089611782" duration="6370000" />
+      <workItem from="1569242410954" duration="599000" />
+      <workItem from="1569334466249" duration="1310000" />
+      <workItem from="1569397980126" duration="1789000" />
+      <workItem from="1569509483173" duration="3657000" />
+      <workItem from="1569581973246" duration="599000" />
+      <workItem from="1569662188918" duration="10810000" />
+      <workItem from="1569733758145" duration="14193000" />
+      <workItem from="1569823872862" duration="9518000" />
     </task>
+    <task id="LOCAL-00001" summary="Initial Commit">
+      <created>1568640827879</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1568640827879</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
-  </component>
-  <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9455000" />
-  </component>
-  <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <layout>
-      <window_info id="Favorites" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="0" weight="0.24962178" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Database Changes" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Python Console" />
-      <window_info anchor="bottom" id="Terminal" weight="0.3289689" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.3289689" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="SciView" />
-      <window_info anchor="right" id="Database" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-    </layout>
-    <layout-to-restore>
-      <window_info id="Favorites" order="0" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="1" visible="true" weight="0.24962178" />
-      <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Docker" order="0" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" order="1" weight="0.3289689" />
-      <window_info anchor="bottom" id="Event Log" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="Database Changes" order="3" />
-      <window_info anchor="bottom" id="Version Control" order="4" />
-      <window_info anchor="bottom" id="Python Console" order="5" />
-      <window_info anchor="bottom" id="Message" order="6" />
-      <window_info anchor="bottom" id="Find" order="7" />
-      <window_info active="true" anchor="bottom" id="Run" order="8" visible="true" weight="0.3289689" />
-      <window_info anchor="bottom" id="Debug" order="9" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="10" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="11" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="12" />
-      <window_info anchor="right" id="Database" order="0" />
-      <window_info anchor="right" id="SciView" order="1" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="2" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="3" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="4" weight="0.25" />
-    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
-  <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/neobis_1_file_projects$calculations_b.coverage" NAME="calculations_b Coverage Results" MODIFIED="1568783804730" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python/#2" />
-    <SUITE FILE_PATH="coverage/neobis_1_file_projects$calculations_a.coverage" NAME="calculations_a Coverage Results" MODIFIED="1568779667597" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python/#2" />
-    <SUITE FILE_PATH="coverage/neobis_1_file_projects$Problem1.coverage" NAME="Problem1 Coverage Results" MODIFIED="1568788958887" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python/#1" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
-  <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/python/#2/calculations_b.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="5" selection-start-line="5" selection-end-line="10" selection-end-column="11" />
-          <folding>
-            <element signature="e#0#9#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/python/#2/calculations_a.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="3" selection-end-column="41" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/python/#1/Problem1.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Initial Commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Initial Commit" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/neobis_1_file_projects$birthday.coverage" NAME="birthday Coverage Results" MODIFIED="1569750757743" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python/#3" />
+    <SUITE FILE_PATH="coverage/neobis_1_file_projects$same_numbers.coverage" NAME="same_numbers Coverage Results" MODIFIED="1569742760083" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python/#3" />
+    <SUITE FILE_PATH="coverage/neobis_1_file_projects$dummy_code.coverage" NAME="dummy_code Coverage Results" MODIFIED="1569757149462" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python/#3" />
+    <SUITE FILE_PATH="coverage/neobis_1_file_projects$sides_of_triangle.coverage" NAME="sides_of_triangle Coverage Results" MODIFIED="1569743939179" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python/#3" />
+    <SUITE FILE_PATH="coverage/neobis_1_file_projects$calculations_a.coverage" NAME="calculations_a Coverage Results" MODIFIED="1569677652558" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python/#2" />
+    <SUITE FILE_PATH="coverage/neobis_1_file_projects$watches.coverage" NAME="watches Coverage Results" MODIFIED="1569678647561" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python/#2" />
+    <SUITE FILE_PATH="coverage/neobis_1_file_projects$oldest_one.coverage" NAME="oldest_one Coverage Results" MODIFIED="1569741801462" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python/#3" />
+    <SUITE FILE_PATH="coverage/neobis_1_file_projects$number_of_months.coverage" NAME="number_of_months Coverage Results" MODIFIED="1569743379842" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python/#3" />
+    <SUITE FILE_PATH="coverage/neobis_1_file_projects$n_sides.coverage" NAME="n_sides Coverage Results" MODIFIED="1569834604068" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python/#4" />
+    <SUITE FILE_PATH="coverage/neobis_1_file_projects$calculations_c.coverage" NAME="calculations_c Coverage Results" MODIFIED="1569677535539" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python/#2" />
+    <SUITE FILE_PATH="coverage/neobis_1_file_projects$sequence.coverage" NAME="sequence Coverage Results" MODIFIED="1569692479109" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python/#2" />
+    <SUITE FILE_PATH="coverage/neobis_1_file_projects$watches_inverse.coverage" NAME="watches_inverse Coverage Results" MODIFIED="1569679568192" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python/#2" />
+    <SUITE FILE_PATH="coverage/neobis_1_file_projects$calculations_b.coverage" NAME="calculations_b Coverage Results" MODIFIED="1569174779229" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python/#2" />
+    <SUITE FILE_PATH="coverage/neobis_1_file_projects$area_n_perimeter.coverage" NAME="area_n_perimeter Coverage Results" MODIFIED="1569691210535" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python/#2" />
+    <SUITE FILE_PATH="coverage/neobis_1_file_projects$angles_of_triangle.coverage" NAME="angles_of_triangle Coverage Results" MODIFIED="1569750496513" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python/#3" />
+    <SUITE FILE_PATH="coverage/neobis_1_file_projects$squares.coverage" NAME="squares Coverage Results" MODIFIED="1569835158221" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python/#4" />
+    <SUITE FILE_PATH="coverage/neobis_1_file_projects$Problem1.coverage" NAME="Problem1 Coverage Results" MODIFIED="1568740630401" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python" />
+    <SUITE FILE_PATH="coverage/neobis_1_file_projects$fibonacci.coverage" NAME="fibonacci Coverage Results" MODIFIED="1569860533129" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python/#4" />
+    <SUITE FILE_PATH="coverage/neobis_1_file_projects$sum_of_numbers.coverage" NAME="sum_of_numbers Coverage Results" MODIFIED="1569861093206" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python/#4" />
+    <SUITE FILE_PATH="coverage/neobis_1_file_projects$sum_of_two_n.coverage" NAME="sum_of_two_n Coverage Results" MODIFIED="1569691711815" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python/#2" />
+    <SUITE FILE_PATH="coverage/neobis_1_file_projects$product.coverage" NAME="product Coverage Results" MODIFIED="1569835260533" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python/#4" />
+    <SUITE FILE_PATH="coverage/neobis_1_file_projects$two_triangles.coverage" NAME="two_triangles Coverage Results" MODIFIED="1569757645134" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python/#3" />
   </component>
 </project>
