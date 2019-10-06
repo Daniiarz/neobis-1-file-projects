@@ -2,34 +2,87 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="47803999-16b7-469b-93b8-036c522d615a" name="Default Changelist" comment="Initial Commit">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/other.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python/#2/abbys.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python/#2/area_n_perimeter.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python/#2/calculations_c.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python/#2/polygon.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python/#2/sequence.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python/#2/sum_of_two_n.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python/#2/watches.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python/#2/watches_inverse.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python/#3/angles_of_triangle.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python/#3/birthday.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python/#3/dummy_code.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python/#3/max_num.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python/#3/number_of_months.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python/#3/oldest_one.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python/#3/same_numbers.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python/#3/sides_of_triangle.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python/#3/two_triangles.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python/#4/fibonacci.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python/#4/n_sides.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python/#4/product.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python/#4/squares.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dictionaries/Daniiar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/Arrays/2_maximal_elements.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/Arrays/Very_quick_sorting.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/Arrays/closest_digit.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/Arrays/counteroperation.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/Arrays/different_elements.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/Arrays/inverse_list.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/Arrays/linear_search.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/Arrays/linear_search2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/Arrays/linear_search3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/Arrays/lucky_number.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/Arrays/max_list.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/Arrays/random_max_n_min.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/Arrays/random_x.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/Arrays/revision.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/Arrays/silver_medal.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/Arrays/sum_of_numbers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/Cyclic algorithms/GCD.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/Cyclic algorithms/amount_of_odd_n_even.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/Cyclic algorithms/armstrong_numbers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/Cyclic algorithms/automorph_numbers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/Cyclic algorithms/delete_digit.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/Cyclic algorithms/delete_even.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/Cyclic algorithms/delete_first_n_last.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/Cyclic algorithms/five-digit.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/Cyclic algorithms/half_number_sum.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/Cyclic algorithms/prime_numbers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/Cyclic algorithms/same_numbers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/Cyclic algorithms/same_numbers2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/Cyclic algorithms/sum_of_digits_of_something.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/Cyclic algorithms/sum_of_odd_positions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/Functions/GCD.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/Functions/hex_n_binary.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/Functions/inverse_input.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/Functions/perfect_function.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/Functions/product_binary.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/Functions/reciprocally_simiple.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/Functions/sum_of_n.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/Functions/sum_of_oct.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/Functions/super_prime.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/Functions/voting.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/Functions/xor.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/Procedures/binary_represantation.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/Procedures/digits_inline.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/Procedures/element_of_sequence.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/Procedures/gcd_n_lcm.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/Procedures/hexadecimal.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/Procedures/int_sign.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/Procedures/leap_year.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/Procedures/repeating_hypen.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/Procedures/simplification_rational_n.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/Procedures/sorted_digits.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/Procedures/temperature.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/Sorting/quick_sorting.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/Sorting/sort_by_score.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/Sorting/special_array_sorting.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python/#2/calculations_a.py" beforeDir="false" afterPath="$PROJECT_DIR$/python/#2/calculations_a.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python/#2/calculations_b.py" beforeDir="false" afterPath="$PROJECT_DIR$/python/#2/calculations_b.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python/#1/Problem1.py" beforeDir="false" afterPath="$PROJECT_DIR$/python/Algorithm and its properties/Problem1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python/#2/abbys.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python/#2/area_n_perimeter.py" beforeDir="false" afterPath="$PROJECT_DIR$/python/Calculations/area_n_perimeter.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python/#2/calculations_a.py" beforeDir="false" afterPath="$PROJECT_DIR$/python/Calculations/calculations_a.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python/#2/calculations_b.py" beforeDir="false" afterPath="$PROJECT_DIR$/python/Calculations/calculations_b.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python/#2/calculations_c.py" beforeDir="false" afterPath="$PROJECT_DIR$/python/Calculations/calculations_c.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python/#2/polygon.py" beforeDir="false" afterPath="$PROJECT_DIR$/python/Calculations/polygon.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python/#2/sequence.py" beforeDir="false" afterPath="$PROJECT_DIR$/python/Calculations/sequence.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python/#2/sum_of_two_n.py" beforeDir="false" afterPath="$PROJECT_DIR$/python/Calculations/sum_of_two_n.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python/#2/watches.py" beforeDir="false" afterPath="$PROJECT_DIR$/python/Calculations/watches.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python/#2/watches_inverse.py" beforeDir="false" afterPath="$PROJECT_DIR$/python/Calculations/watches_inverse.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python/#3/angles_of_triangle.py" beforeDir="false" afterPath="$PROJECT_DIR$/python/Branching/angles_of_triangle.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python/#3/birthday.py" beforeDir="false" afterPath="$PROJECT_DIR$/python/Branching/birthday.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python/#3/max_num.py" beforeDir="false" afterPath="$PROJECT_DIR$/python/Branching/max_num.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python/#3/number_of_months.py" beforeDir="false" afterPath="$PROJECT_DIR$/python/Branching/number_of_months.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python/#3/oldest_one.py" beforeDir="false" afterPath="$PROJECT_DIR$/python/Branching/oldest_one.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python/#3/same_numbers.py" beforeDir="false" afterPath="$PROJECT_DIR$/python/Branching/same_numbers.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python/#3/sides_of_triangle.py" beforeDir="false" afterPath="$PROJECT_DIR$/python/Branching/sides_of_triangle.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python/#3/two_triangles.py" beforeDir="false" afterPath="$PROJECT_DIR$/python/Branching/two_triangles.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python/#4/fibonacci.py" beforeDir="false" afterPath="$PROJECT_DIR$/python/Cyclic algorithms/fibonacci.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python/#4/n_sides.py" beforeDir="false" afterPath="$PROJECT_DIR$/python/Cyclic algorithms/n_sides.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python/#4/product.py" beforeDir="false" afterPath="$PROJECT_DIR$/python/Cyclic algorithms/product.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python/#4/squares.py" beforeDir="false" afterPath="$PROJECT_DIR$/python/Cyclic algorithms/squares.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python/#4/sum_of_numbers.py" beforeDir="false" afterPath="$PROJECT_DIR$/python/Cyclic algorithms/sum_of_numbers.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -65,7 +118,7 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../ruli.kg" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.selected.configurable" value="preferences.editor" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -79,8 +132,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.sum_of_numbers">
-    <configuration name="fibonacci" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.quick_sorting">
+    <configuration name="different_elements" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="neobis-1-file-projects" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -88,12 +141,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python/#4" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python/Arrays" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python/#4/fibonacci.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python/Arrays/different_elements.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -102,7 +155,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="n_sides" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="linear_search3" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="neobis-1-file-projects" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -110,12 +163,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python/#4" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python/Arrays" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python/#4/n_sides.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python/Arrays/linear_search3.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -124,7 +177,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="product" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="max_list" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="neobis-1-file-projects" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -132,12 +185,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python/#4" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python/Arrays" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python/#4/product.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python/Arrays/max_list.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -146,7 +199,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="squares" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="quick_sorting" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="neobis-1-file-projects" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -154,12 +207,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python/#4" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python/Sorting" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python/#4/squares.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python/Sorting/quick_sorting.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -168,7 +221,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="sum_of_numbers" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="special_array_sorting" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="neobis-1-file-projects" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -176,12 +229,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python/#4" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python/Sorting" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python/#4/sum_of_numbers.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python/Sorting/special_array_sorting.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -192,11 +245,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.sum_of_numbers" />
-        <item itemvalue="Python.fibonacci" />
-        <item itemvalue="Python.product" />
-        <item itemvalue="Python.squares" />
-        <item itemvalue="Python.n_sides" />
+        <item itemvalue="Python.quick_sorting" />
+        <item itemvalue="Python.special_array_sorting" />
+        <item itemvalue="Python.max_list" />
+        <item itemvalue="Python.different_elements" />
+        <item itemvalue="Python.linear_search3" />
       </list>
     </recent_temporary>
   </component>
@@ -223,7 +276,13 @@
       <workItem from="1569581973246" duration="599000" />
       <workItem from="1569662188918" duration="10810000" />
       <workItem from="1569733758145" duration="14193000" />
-      <workItem from="1569823872862" duration="9518000" />
+      <workItem from="1569823872862" duration="15879000" />
+      <workItem from="1569914980816" duration="23916000" />
+      <workItem from="1569992988574" duration="14111000" />
+      <workItem from="1570106804783" duration="8715000" />
+      <workItem from="1570190319616" duration="3544000" />
+      <workItem from="1570252320904" duration="819000" />
+      <workItem from="1570369824355" duration="10832000" />
     </task>
     <task id="LOCAL-00001" summary="Initial Commit">
       <created>1568640827879</created>
@@ -257,26 +316,74 @@
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/neobis_1_file_projects$birthday.coverage" NAME="birthday Coverage Results" MODIFIED="1569750757743" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python/#3" />
+    <SUITE FILE_PATH="coverage/neobis_1_file_projects$delete_first_n_last.coverage" NAME="delete_first_n_last Coverage Results" MODIFIED="1569922550528" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python/#4" />
     <SUITE FILE_PATH="coverage/neobis_1_file_projects$same_numbers.coverage" NAME="same_numbers Coverage Results" MODIFIED="1569742760083" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python/#3" />
     <SUITE FILE_PATH="coverage/neobis_1_file_projects$dummy_code.coverage" NAME="dummy_code Coverage Results" MODIFIED="1569757149462" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python/#3" />
-    <SUITE FILE_PATH="coverage/neobis_1_file_projects$sides_of_triangle.coverage" NAME="sides_of_triangle Coverage Results" MODIFIED="1569743939179" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python/#3" />
+    <SUITE FILE_PATH="coverage/neobis_1_file_projects$different_elements.coverage" NAME="different_elements Coverage Results" MODIFIED="1570380340349" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python/Arrays" />
     <SUITE FILE_PATH="coverage/neobis_1_file_projects$calculations_a.coverage" NAME="calculations_a Coverage Results" MODIFIED="1569677652558" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python/#2" />
-    <SUITE FILE_PATH="coverage/neobis_1_file_projects$watches.coverage" NAME="watches Coverage Results" MODIFIED="1569678647561" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python/#2" />
+    <SUITE FILE_PATH="coverage/neobis_1_file_projects$sum_of_odd_positions.coverage" NAME="sum_of_odd_positions Coverage Results" MODIFIED="1569924698361" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python/#4" />
+    <SUITE FILE_PATH="coverage/neobis_1_file_projects$five_digit.coverage" NAME="five-digit Coverage Results" MODIFIED="1569924997048" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python/#4" />
+    <SUITE FILE_PATH="coverage/neobis_1_file_projects$quick_sorting.coverage" NAME="quick_sorting Coverage Results" MODIFIED="1570381087118" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python/Sorting" />
+    <SUITE FILE_PATH="coverage/neobis_1_file_projects$2_maximal_elements.coverage" NAME="2_maximal_elements Coverage Results" MODIFIED="1570113725760" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python/arrays" />
+    <SUITE FILE_PATH="coverage/neobis_1_file_projects$closest_digit.coverage" NAME="closest_digit Coverage Results" MODIFIED="1570379827203" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python/Arrays" />
+    <SUITE FILE_PATH="coverage/neobis_1_file_projects$sum_of_n.coverage" NAME="sum_of_n Coverage Results" MODIFIED="1570003190266" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python/functions" />
+    <SUITE FILE_PATH="coverage/neobis_1_file_projects$special_array_sorting.coverage" NAME="special_array_sorting Coverage Results" MODIFIED="1570380853861" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python/Sorting" />
+    <SUITE FILE_PATH="coverage/neobis_1_file_projects$linear_search3.coverage" NAME="linear_search3 Coverage Results" MODIFIED="1570380227719" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python/Arrays" />
+    <SUITE FILE_PATH="coverage/neobis_1_file_projects$simplification_rational_n.coverage" NAME="simplification_rational_n Coverage Results" MODIFIED="1569946951602" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python/#5" />
+    <SUITE FILE_PATH="coverage/neobis_1_file_projects$hexadecimal.coverage" NAME="hexadecimal Coverage Results" MODIFIED="1569951913184" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python/#5" />
+    <SUITE FILE_PATH="coverage/neobis_1_file_projects$squares.coverage" NAME="squares Coverage Results" MODIFIED="1569835158221" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python/#4" />
+    <SUITE FILE_PATH="coverage/neobis_1_file_projects$amount_of_odd_n_even.coverage" NAME="amount_of_odd_n_even Coverage Results" MODIFIED="1569924862370" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python/#4" />
+    <SUITE FILE_PATH="coverage/neobis_1_file_projects$sorted_digits.coverage" NAME="sorted_digits Coverage Results" MODIFIED="1569935795851" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python/#5" />
+    <SUITE FILE_PATH="coverage/neobis_1_file_projects$GCD.coverage" NAME="GCD Coverage Results" MODIFIED="1569932304541" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python/#4" />
+    <SUITE FILE_PATH="coverage/neobis_1_file_projects$product_binary.coverage" NAME="product_binary Coverage Results" MODIFIED="1570018271265" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python/functions" />
+    <SUITE FILE_PATH="coverage/neobis_1_file_projects$silver_medal.coverage" NAME="silver_medal Coverage Results" MODIFIED="1570376450118" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python/Arrays" />
+    <SUITE FILE_PATH="coverage/neobis_1_file_projects$voting.coverage" NAME="voting Coverage Results" MODIFIED="1570027563639" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python/functions" />
+    <SUITE FILE_PATH="coverage/neobis_1_file_projects$counteroperation.coverage" NAME="counteroperation Coverage Results" MODIFIED="1570377195403" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python/Arrays" />
+    <SUITE FILE_PATH="coverage/neobis_1_file_projects$inverse_input.coverage" NAME="inverse_input Coverage Results" MODIFIED="1570003475928" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python/functions" />
+    <SUITE FILE_PATH="coverage/neobis_1_file_projects$xor.coverage" NAME="xor Coverage Results" MODIFIED="1570021478912" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python/functions" />
+    <SUITE FILE_PATH="coverage/neobis_1_file_projects$digits_inline.coverage" NAME="digits_inline Coverage Results" MODIFIED="1569935047574" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python/#5" />
+    <SUITE FILE_PATH="coverage/neobis_1_file_projects$Very_quick_sorting.coverage" NAME="Very_quick_sorting Coverage Results" MODIFIED="1570371537008" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python/Arrays" />
     <SUITE FILE_PATH="coverage/neobis_1_file_projects$oldest_one.coverage" NAME="oldest_one Coverage Results" MODIFIED="1569741801462" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python/#3" />
+    <SUITE FILE_PATH="coverage/neobis_1_file_projects$hex_n_binary.coverage" NAME="hex_n_binary Coverage Results" MODIFIED="1570021700369" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python/functions" />
+    <SUITE FILE_PATH="coverage/neobis_1_file_projects$sum_of_oct.coverage" NAME="sum_of_oct Coverage Results" MODIFIED="1570019685482" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python/functions" />
     <SUITE FILE_PATH="coverage/neobis_1_file_projects$number_of_months.coverage" NAME="number_of_months Coverage Results" MODIFIED="1569743379842" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python/#3" />
     <SUITE FILE_PATH="coverage/neobis_1_file_projects$n_sides.coverage" NAME="n_sides Coverage Results" MODIFIED="1569834604068" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python/#4" />
     <SUITE FILE_PATH="coverage/neobis_1_file_projects$calculations_c.coverage" NAME="calculations_c Coverage Results" MODIFIED="1569677535539" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python/#2" />
-    <SUITE FILE_PATH="coverage/neobis_1_file_projects$sequence.coverage" NAME="sequence Coverage Results" MODIFIED="1569692479109" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python/#2" />
-    <SUITE FILE_PATH="coverage/neobis_1_file_projects$watches_inverse.coverage" NAME="watches_inverse Coverage Results" MODIFIED="1569679568192" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python/#2" />
+    <SUITE FILE_PATH="coverage/neobis_1_file_projects$delete_digit.coverage" NAME="delete_digit Coverage Results" MODIFIED="1569921087003" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python/#4" />
+    <SUITE FILE_PATH="coverage/neobis_1_file_projects$temperature.coverage" NAME="temperature Coverage Results" MODIFIED="1569945984767" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python/#5" />
     <SUITE FILE_PATH="coverage/neobis_1_file_projects$calculations_b.coverage" NAME="calculations_b Coverage Results" MODIFIED="1569174779229" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python/#2" />
-    <SUITE FILE_PATH="coverage/neobis_1_file_projects$area_n_perimeter.coverage" NAME="area_n_perimeter Coverage Results" MODIFIED="1569691210535" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python/#2" />
     <SUITE FILE_PATH="coverage/neobis_1_file_projects$angles_of_triangle.coverage" NAME="angles_of_triangle Coverage Results" MODIFIED="1569750496513" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python/#3" />
-    <SUITE FILE_PATH="coverage/neobis_1_file_projects$squares.coverage" NAME="squares Coverage Results" MODIFIED="1569835158221" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python/#4" />
+    <SUITE FILE_PATH="coverage/neobis_1_file_projects$linear_search.coverage" NAME="linear_search Coverage Results" MODIFIED="1570377738256" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python/Arrays" />
+    <SUITE FILE_PATH="coverage/neobis_1_file_projects$sum_of_numbers.coverage" NAME="sum_of_numbers Coverage Results" MODIFIED="1570373235851" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python/Arrays" />
+    <SUITE FILE_PATH="coverage/neobis_1_file_projects$max_list.coverage" NAME="max_list Coverage Results" MODIFIED="1570380559074" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python/Arrays" />
+    <SUITE FILE_PATH="coverage/neobis_1_file_projects$sum_of_two_n.coverage" NAME="sum_of_two_n Coverage Results" MODIFIED="1569691711815" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python/#2" />
+    <SUITE FILE_PATH="coverage/neobis_1_file_projects$two_triangles.coverage" NAME="two_triangles Coverage Results" MODIFIED="1569932831795" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python/#3" />
+    <SUITE FILE_PATH="coverage/neobis_1_file_projects$prime_numbers.coverage" NAME="prime_numbers Coverage Results" MODIFIED="1569917812602" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python/#4" />
+    <SUITE FILE_PATH="coverage/neobis_1_file_projects$sides_of_triangle.coverage" NAME="sides_of_triangle Coverage Results" MODIFIED="1569743939179" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python/#3" />
+    <SUITE FILE_PATH="coverage/neobis_1_file_projects$sequence.coverage" NAME="sequence Coverage Results" MODIFIED="1569692479109" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python/#2" />
+    <SUITE FILE_PATH="coverage/neobis_1_file_projects$revision.coverage" NAME="revision Coverage Results" MODIFIED="1570375035285" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python/Arrays" />
+    <SUITE FILE_PATH="coverage/neobis_1_file_projects$armstrong_numbers.coverage" NAME="armstrong_numbers Coverage Results" MODIFIED="1569924904351" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python/#4" />
+    <SUITE FILE_PATH="coverage/neobis_1_file_projects$linear_search2.coverage" NAME="linear_search2 Coverage Results" MODIFIED="1570377641385" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python/Arrays" />
+    <SUITE FILE_PATH="coverage/neobis_1_file_projects$half_number_sum.coverage" NAME="half_number_sum Coverage Results" MODIFIED="1569924337657" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python/#4" />
+    <SUITE FILE_PATH="coverage/neobis_1_file_projects$area_n_perimeter.coverage" NAME="area_n_perimeter Coverage Results" MODIFIED="1569691210535" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python/#2" />
+    <SUITE FILE_PATH="coverage/neobis_1_file_projects$lucky_number.coverage" NAME="lucky_number Coverage Results" MODIFIED="1570373122089" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python/Arrays" />
     <SUITE FILE_PATH="coverage/neobis_1_file_projects$Problem1.coverage" NAME="Problem1 Coverage Results" MODIFIED="1568740630401" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python" />
     <SUITE FILE_PATH="coverage/neobis_1_file_projects$fibonacci.coverage" NAME="fibonacci Coverage Results" MODIFIED="1569860533129" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python/#4" />
-    <SUITE FILE_PATH="coverage/neobis_1_file_projects$sum_of_numbers.coverage" NAME="sum_of_numbers Coverage Results" MODIFIED="1569861093206" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python/#4" />
-    <SUITE FILE_PATH="coverage/neobis_1_file_projects$sum_of_two_n.coverage" NAME="sum_of_two_n Coverage Results" MODIFIED="1569691711815" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python/#2" />
+    <SUITE FILE_PATH="coverage/neobis_1_file_projects$super_prime.coverage" NAME="super_prime Coverage Results" MODIFIED="1570008831730" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python/functions" />
+    <SUITE FILE_PATH="coverage/neobis_1_file_projects$inverse_list.coverage" NAME="inverse_list Coverage Results" MODIFIED="1570196339367" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python/arrays" />
+    <SUITE FILE_PATH="coverage/neobis_1_file_projects$similar_neighborhood.coverage" NAME="similar_neighborhood Coverage Results" MODIFIED="1569862609972" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python/#4" />
+    <SUITE FILE_PATH="coverage/neobis_1_file_projects$same_numbers2.coverage" NAME="same_numbers2 Coverage Results" MODIFIED="1569863718047" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python/#4" />
     <SUITE FILE_PATH="coverage/neobis_1_file_projects$product.coverage" NAME="product Coverage Results" MODIFIED="1569835260533" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python/#4" />
-    <SUITE FILE_PATH="coverage/neobis_1_file_projects$two_triangles.coverage" NAME="two_triangles Coverage Results" MODIFIED="1569757645134" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python/#3" />
+    <SUITE FILE_PATH="coverage/neobis_1_file_projects$element_of_sequence.coverage" NAME="element_of_sequence Coverage Results" MODIFIED="1569947982821" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python/#5" />
+    <SUITE FILE_PATH="coverage/neobis_1_file_projects$reciprocally_simiple.coverage" NAME="reciprocally_simiple Coverage Results" MODIFIED="1570006673419" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python/functions" />
+    <SUITE FILE_PATH="coverage/neobis_1_file_projects$watches.coverage" NAME="watches Coverage Results" MODIFIED="1569678647561" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python/#2" />
+    <SUITE FILE_PATH="coverage/neobis_1_file_projects$perfect_function.coverage" NAME="perfect_function Coverage Results" MODIFIED="1570006293624" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python/functions" />
+    <SUITE FILE_PATH="coverage/neobis_1_file_projects$random_x.coverage" NAME="random_x Coverage Results" MODIFIED="1570109953994" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python/arrays" />
+    <SUITE FILE_PATH="coverage/neobis_1_file_projects$watches_inverse.coverage" NAME="watches_inverse Coverage Results" MODIFIED="1569679568192" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python/#2" />
+    <SUITE FILE_PATH="coverage/neobis_1_file_projects$hyper_simple.coverage" NAME="hyper_simple Coverage Results" MODIFIED="1570007764856" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python/functions" />
+    <SUITE FILE_PATH="coverage/neobis_1_file_projects$binary_represantation.coverage" NAME="binary_represantation Coverage Results" MODIFIED="1569934447778" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python/#5" />
+    <SUITE FILE_PATH="coverage/neobis_1_file_projects$automorph_numbers.coverage" NAME="automorph_numbers Coverage Results" MODIFIED="1570375508180" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python/Cyclic algorithms" />
+    <SUITE FILE_PATH="coverage/neobis_1_file_projects$delete_even.coverage" NAME="delete_even Coverage Results" MODIFIED="1569921340226" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python/#4" />
+    <SUITE FILE_PATH="coverage/neobis_1_file_projects$sum_of_digits_of_something.coverage" NAME="sum_of_digits_of_something Coverage Results" MODIFIED="1569920602005" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python/#4" />
   </component>
 </project>
